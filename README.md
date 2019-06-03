@@ -1,7 +1,7 @@
 # multisense
 
 
-To download images in MultiSense dataset please follow the link [**here**][https://drive.google.com/open?id=1e0ebK7KWlBzlc0j2u3CpXWJ0zVupPxM9]
+To download images in MultiSense dataset please follow the link [**here**](https://drive.google.com/open?id=1e0ebK7KWlBzlc0j2u3CpXWJ0zVupPxM9)
 
 [gold_german_query_classes.csv](../master/gold_german_query_classes.csv): 
   This file has verb, query phrase and its Spanish translation.
